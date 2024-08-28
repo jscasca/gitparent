@@ -6,3 +6,5 @@ Testing submodule repo of gitsubtree
 Update A
 Update B
 Update C
+
+Update D
